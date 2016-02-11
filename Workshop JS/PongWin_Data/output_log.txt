@@ -1,0 +1,72 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ATI Mobility Radeon HD 5400 Series (ID=0x68e0)
+    Vendor:   ATI
+    VRAM:     506 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity\PongAndroid\PongWin_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity\PongAndroid\PongWin_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity\PongAndroid\PongWin_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Unity\PongAndroid\PongWin_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.110 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\Unity\PongAndroid\PongWin_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: E:\Unity\PongAndroid\PongWin_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 0.424599 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 221.
+Total: 1.202897 ms (FindLiveObjects: 0.014585 ms CreateObjectMapping: 0.020257 ms MarkObjects: 0.431082 ms  DeleteObjects: 0.014180 ms)
+
+UnloadTime: 0.470381 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 134.
+Total: 0.894576 ms (FindLiveObjects: 0.008913 ms CreateObjectMapping: 0.012559 ms MarkObjects: 0.230936 ms  DeleteObjects: 0.172594 ms)
+
+UnloadTime: 0.304674 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 133.
+Total: 0.672147 ms (FindLiveObjects: 0.007292 ms CreateObjectMapping: 0.011344 ms MarkObjects: 0.234583 ms  DeleteObjects: 0.003646 ms)
+
+UnloadTime: 0.379222 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 222.
+Total: 1.362932 ms (FindLiveObjects: 0.012154 ms CreateObjectMapping: 0.014180 ms MarkObjects: 0.346405 ms  DeleteObjects: 0.012559 ms)
+
+Couldn't send RPC function 'SetPlayer2Pos' to server
+
+ 
+(Filename:  Line: 2463)
+
+Couldn't send RPC function 'SetPlayer2Pos' to server
+
+ 
+(Filename:  Line: 2463)
+
+Couldn't send RPC function 'SetPlayer2Pos' to server
+
+ 
+(Filename:  Line: 2463)
+
+Couldn't send RPC function 'SetPlayer2Pos' to server
+
+ 
+(Filename:  Line: 2463)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 745)
+
+UnloadTime: 0.467951 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 134.
+Total: 0.973581 ms (FindLiveObjects: 0.009318 ms CreateObjectMapping: 0.015395 ms MarkObjects: 0.245522 ms  DeleteObjects: 0.118304 ms)
+
